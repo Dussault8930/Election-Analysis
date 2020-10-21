@@ -5,7 +5,7 @@
 A Colorado Board of Elections employee gave me the following tasks to assist in completing an audit of a recent local congressional election.
 
 ---
-Here are some of my findings after writing the script needed for this project:
+Here are some of my findings after writing the script needed for this project and running it throught the data set that I was given:
 
 <img width="237" alt="2020-10-20 (8)" src="https://user-images.githubusercontent.com/71742174/96666360-908b6a80-131c-11eb-91f8-8334ab84bf59.png">
 
